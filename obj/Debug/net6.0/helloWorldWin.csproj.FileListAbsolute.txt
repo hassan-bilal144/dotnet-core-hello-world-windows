@@ -1,0 +1,15 @@
+C:\helloWorldWin\bin\Debug\net6.0\helloWorldWin.exe
+C:\helloWorldWin\bin\Debug\net6.0\helloWorldWin.deps.json
+C:\helloWorldWin\bin\Debug\net6.0\helloWorldWin.runtimeconfig.json
+C:\helloWorldWin\bin\Debug\net6.0\helloWorldWin.dll
+C:\helloWorldWin\bin\Debug\net6.0\ref\helloWorldWin.dll
+C:\helloWorldWin\bin\Debug\net6.0\helloWorldWin.pdb
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.csproj.AssemblyReference.cache
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.AssemblyInfoInputs.cache
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.AssemblyInfo.cs
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.csproj.CoreCompileInputs.cache
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.dll
+C:\helloWorldWin\obj\Debug\net6.0\ref\helloWorldWin.dll
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.pdb
+C:\helloWorldWin\obj\Debug\net6.0\helloWorldWin.genruntimeconfig.cache
